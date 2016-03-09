@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C0C0'
+    - '#000000'
+    - '#888888'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.7468991533081432
+  lightness: 0.029421358945654563
+  rhythmicContrast: 0.3088893550718155
+  saturation: 0.4291840947620714
+cta: {}
+layout_spectrum: 1
+name: FredMatthews
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.615709
