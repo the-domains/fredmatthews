@@ -1,18 +1,31 @@
-analytics: {}
+name: FredMatthews
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.615709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C0C0C0'
-    - '#000000'
-    - '#888888'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.7468991533081432
-  lightness: 0.029421358945654563
-  rhythmicContrast: 0.3088893550718155
-  saturation: 0.4291840947620714
-cta: {}
-layout_spectrum: 1
-name: FredMatthews
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.615709
+    - '#152350'
+    - '#2393d2'
+    - '#d7f7ea'
+    - '#e6b5b1'
+    - '#d17776'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0.25
+purpose:
+  - name: null
+    item: null
+    url: null
